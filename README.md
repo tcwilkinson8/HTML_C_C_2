@@ -3,7 +3,7 @@
 Welcome to my front-end project where I compare two of my most-played League of Legends ADC champions: **Ashe** and **Caitlyn**.
 
 🕹️ **Live Demo:**  
-https://tcwilkinson8.github.io/HTML_C_C_2/
+ https://tcwilkinson8.github.io/LoL-champ-compare/
 
 ---
 
